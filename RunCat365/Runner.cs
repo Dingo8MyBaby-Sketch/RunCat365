@@ -21,6 +21,7 @@ namespace RunCat365
         Cat,
         Parrot,
         Horse,
+        Panther,
     }
 
     internal static class RunnerExtension
@@ -32,6 +33,7 @@ namespace RunCat365
                 Runner.Cat => "Cat",
                 Runner.Parrot => "Parrot",
                 Runner.Horse => "Horse",
+                Runner.Panther => "Panther",
                 _ => "",
             };
         }
@@ -43,6 +45,7 @@ namespace RunCat365
                 Runner.Cat => Strings.Runner_Cat,
                 Runner.Parrot => Strings.Runner_Parrot,
                 Runner.Horse => Strings.Runner_Horse,
+                Runner.Panther => Strings.Runner_Panther,
                 _ => "",
             };
         }
@@ -54,6 +57,7 @@ namespace RunCat365
                 Runner.Cat => 5,
                 Runner.Parrot => 10,
                 Runner.Horse => 14,
+                Runner.Panther => 5,
                 _ => 0,
             };
         }

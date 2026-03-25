@@ -162,6 +162,9 @@
   <data name="Runner_Horse" xml:space="preserve">
     <value>馬</value>
   </data>
+  <data name="Runner_Panther" xml:space="preserve">
+    <value>黑豹</value>
+  </data>
   <data name="Message_AppLaunched" xml:space="preserve">
     <value>應用程式已啟動。如果圖示不在工作列上，表示已被省略，請手動移動並固定它。</value>
   </data>

@@ -238,4 +238,19 @@
   <data name="parrot_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\runners\parrot\parrot_9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="panther_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\runners\panther\panther_0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panther_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\runners\panther\panther_1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panther_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\runners\panther\panther_2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panther_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\runners\panther\panther_3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="panther_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\runners\panther\panther_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
