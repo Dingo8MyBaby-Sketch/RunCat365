@@ -162,6 +162,9 @@
   <data name="Runner_Horse" xml:space="preserve">
     <value>Pferd</value>
   </data>
+  <data name="Runner_Panther" xml:space="preserve">
+    <value>Panther</value>
+  </data>
   <data name="Message_AppLaunched" xml:space="preserve">
     <value>Die App wurde gestartet. Wenn das Symbol nicht in der Taskleiste angezeigt wird, wurde es ausgeblendet. Bitte verschieben Sie es manuell und heften Sie es an.</value>
   </data>

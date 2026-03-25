@@ -162,6 +162,9 @@
   <data name="Runner_Horse" xml:space="preserve">
     <value>马</value>
   </data>
+  <data name="Runner_Panther" xml:space="preserve">
+    <value>黑豹</value>
+  </data>
   <data name="Message_AppLaunched" xml:space="preserve">
     <value>应用已启动。如果图标不在任务栏上，则表示该应用已被省略，请手动移动并将其固定。</value>
   </data>

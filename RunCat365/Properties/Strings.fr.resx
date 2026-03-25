@@ -162,6 +162,9 @@
   <data name="Runner_Horse" xml:space="preserve">
     <value>Cheval</value>
   </data>
+  <data name="Runner_Panther" xml:space="preserve">
+    <value>Panthère</value>
+  </data>
   <data name="Message_AppLaunched" xml:space="preserve">
     <value>L'application a démarré. Si l'icône n'apparaît pas dans la barre des tâches, elle a peut-être été masquée ; veuillez la déplacer manuellement et l'épingler.</value>
   </data>
